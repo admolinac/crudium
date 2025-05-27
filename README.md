@@ -107,7 +107,7 @@ Los tipos se definen en la carpeta `types` y los esquemas de validación con `zo
 1. Clona el repositorio:
 
 ```bash
-git clone [https://github.com/tuusuario/crudium.git](https://github.com/admolinac/crudium.git)
+git clone [Crudium](https://github.com/admolinac/crudium.git)
 cd crudium
 ````
 
