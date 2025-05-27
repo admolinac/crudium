@@ -1,4 +1,4 @@
-# Crudium 🛢️
+# Crudium 🚀
 
 **Crudium** es una Single Page Application (SPA) desarrollada en Vanilla TypeScript con Vite. Su objetivo es brindar una interfaz intuitiva para realizar operaciones CRUD sobre dos recursos principales: **Usuarios** y **Productos**.
 
@@ -107,7 +107,7 @@ Los tipos se definen en la carpeta `types` y los esquemas de validación con `zo
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/crudium.git
+git clone [https://github.com/tuusuario/crudium.git](https://github.com/admolinac/crudium.git)
 cd crudium
 ````
 
