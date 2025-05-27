@@ -5,7 +5,7 @@ const Footer = (): HTMLElement => {
         <p class="text-center text-body-secondary">
         © 2025 Crudium. Creado por AM - 
         <span class="d-none d-md-inline">
-            <a href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/admolinac" target="_blank" rel="noopener noreferrer">
             <i class="bi bi-github"></i>
             </a>
         </span>
