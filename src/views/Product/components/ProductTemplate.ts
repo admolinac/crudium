@@ -22,7 +22,7 @@ const ProductTemplate = (): HTMLElement => {
         fields: [
             { label: "Nombre", id: "name", name: "name", type: "text", required: true },
             { label: "Precio", id: "price", name: "price", type: "number", required: true, step: "0.01", min: "0" },
-            { label: "En Stock", id: "inStock", name: "inStock", type: "checkbox", required: true  },
+            { label: "En Stock", id: "inStock", name: "inStock", type: "checkbox", required: false  },
             {
                 label: "Categoría", id: "category", name: "category", type: "select", required: true, options: [
                     { value: "toys", label: "🧸 Juguetes" },
