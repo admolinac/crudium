@@ -6,7 +6,7 @@ Este proyecto fue mejorado respecto a su versión inicial, incorporando un **sis
 
 ---
 
-## 🚀 Tecnologías y Librerías Usadas
+## ⚡ Tecnologías y Librerías Usadas
 
 - [Vite](https://vitejs.dev/) - Empaquetador moderno para desarrollo rápido en frontend
 - [TypeScript](https://www.typescriptlang.org/)
